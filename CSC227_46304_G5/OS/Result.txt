@@ -1,0 +1,3 @@
+Total number of jobs processed: 101
+Number of jobs that completed normally: 65
+Number of jobs that completed abnormally: 36
